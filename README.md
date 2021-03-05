@@ -1,8 +1,8 @@
 ### Olá 👋
 
-- :man: Samuel, 20 anos. São Paulo, SP
-- 🌱 Atualmente cursando Análise e Desenvolvimento de Sistemas
-- 📫 Pode me contactar pelo email: samuel.andrade@fatec.sp.gov.br
+- :man_technologist: Meu nome é Samuel, tenho 20 anos e amo programar.
+- :books: Cursando Análise e Desenvolvimento de Sistemas.
+- :briefcase: Acesse meu perfil profissional [aqui](https://www.linkedin.com/in/samuel-figueiredo-de-andrade/).
 
 ### Principais repositorios
 
