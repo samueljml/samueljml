@@ -1,6 +1,6 @@
 ### Olá 👋
 
-- :man_technologist: Meu nome é Samuel, tenho 20 anos e amo programar.
+- :man_technologist: Meu nome é Samuel, tenho 21 anos e amo programar.
 - :books: Cursando Análise e Desenvolvimento de Sistemas.
 - :briefcase: Acesse meu perfil profissional [aqui](https://www.linkedin.com/in/samuel-figueiredo-de-andrade/).
 
